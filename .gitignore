@@ -1,0 +1,5 @@
+.vscode/
+applib/*
+model_data/*
+.idea/
+*.pyc
